@@ -59,7 +59,7 @@ namespace Simple3D
         /// Масштабирования 3D объекта.
         /// </summary>
         /// <param name="item">3D объект.</param>
-        /// <param name="scaleFactor">масштабный множитель</param>
+        /// <param name="scaleFactor">Масштабный множитель.</param>
         /// <param name="Xc">X координата точки масштабирования.</param>
         /// <param name="Yc">Y координата точки масштабирования.</param>
         /// <param name="Zc">Z координата точки масштабирования.</param>

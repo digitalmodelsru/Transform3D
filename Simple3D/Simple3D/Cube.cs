@@ -12,7 +12,7 @@ namespace Simple3D
     class Cube : Abstract3DInstance
     {
         /// <summary>
-        /// создаем куб с ребром равным 1 с центром в начале координат.
+        /// Создаем куб с ребром равным 1 с центром в начале координат.
         /// </summary>
         public Cube()
         {

@@ -14,7 +14,7 @@ namespace Simple3D
         /// <summary>
         /// Получение 3D объекта по id.
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">Id объекта.</param>
         /// <returns>Экземпляр класса Abstract3DInstance.</returns>
         static public Abstract3DInstance GetInstance(int id)
         {
