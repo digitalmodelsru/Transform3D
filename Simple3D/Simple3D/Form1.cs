@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /* Урок "3D моделирование. Построения в пространстве."
- * Все уроки на http://digitalmodels.ru
+ * Все уроки на https://digitalmodels.ru
  * 
  */
 
